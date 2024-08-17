@@ -1,0 +1,24 @@
+Story comes first
+
+storyboarders figure out how the stories will go dowm
+Multiple simple drawings made into scenes
+
+Story reel is added by rudimentary sound effects, scratch soundtrack, and temporary dialogue
+Makes a rough draft for the movie
+
+art department and production designer gets together and create concept art for characters and environments
+
+Character design: character artists lay out how each toy will look.
+
+Can create characters from a reference of your day to day life
+
+dont change an entire character design after the first movie
+
+Color scripts: digial illustrations that depicts a single script in a movie 
+Start to define the style, lighting scheme, and mood of each shot 
+Figure out how color will relate to the storyline
+
+Modeling artist take the basic shape of character, shots, and props and mold them into a 3d mesh
+Sculpt and refine the model until they are satisfied
+
+Rigged with a moveable skeleton. placed 

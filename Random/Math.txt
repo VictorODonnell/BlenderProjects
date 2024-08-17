@@ -1,0 +1,99 @@
+
+1. y=3sin(x+0)+0
+2. y=1sin(x+1.5)+0
+3. y=1sin(x+0)-3
+4. y=1sin(x+pi)+0
+5. y=1sin(2x+0)+0
+6. y=1sin(.8x+0)+2
+7. y=1sin(x-3.1)-2
+8. y=sin(.5x+0)+1
+
+1.
+amplitude: 3
+period: 2pi
+midline: 0
+domain:-∞,∞ 
+range: [-3,3]
+horizontal translation: none
+phase shift: none
+
+2.
+amplitude: 1
+period: 2pi
+midline: 0
+domain: -∞,∞ 
+range: [-1,1]
+horizontal translation: 1 to the left
+phase shift: none
+
+3.
+amplitude: 1
+period: 2pi
+midline: -3
+domain: -∞,∞
+range: [-4,-2]
+horizontal translation: none
+phase shift: none
+
+4.
+amplitude:1 
+period: 2pi
+midline: 0
+domain: -∞,∞
+range: [-1,1]
+horizontal translation: 1pi to the left
+phase shift: none
+
+5.
+amplitude: 1
+period: pi
+midline: 0
+domain: -∞,∞ 
+range: [-1,1]
+horizontal translation: none
+phase shift:none
+
+6.
+amplitude: 1
+period: 8pi/5
+midline: y=2
+domain: -∞,∞ 
+range: [1,3]
+horizontal translation: none
+phase shift: none
+
+7.
+amplitude: 1
+period: 2pi
+midline: -2
+domain: -∞,∞
+range:[-3,-1]
+horizontal translation: 3.1 in the right
+phase shift: none
+
+8.
+amplitude:1 
+period: 4pi
+midline: 1
+domain: -∞,∞
+range: [0,2]
+horizontal translation: none
+phase shift
+
+9.y=2sin(3.5x+0)+0
+amplitude: 2
+period: approx 1.8pi
+midline: 0
+domain: -∞,∞
+range: [-2,2]
+horizontal translation: none
+phase shift: none
+
+10.y=.5cos(5x+0)+0
+amplitude:.5
+period: 2pi/5
+midline: 0 
+domain: -∞,∞
+range: [-.5,.5]
+horizontal translation: none
+phase shift: none
